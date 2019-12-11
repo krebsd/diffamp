@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name DiffAmp)(type KiCad)(uri ${KIPRJMOD}/DiffAmp.pretty)(options "")(descr ""))
+)
